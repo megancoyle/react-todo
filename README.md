@@ -21,3 +21,5 @@ To run locally:
 - `npm run start` to run the application locally
 
 ## Next Steps
+
+- Setup a backend for the application
