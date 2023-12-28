@@ -4,6 +4,8 @@
 
 A React todo application
 
+![Screenshot](screenshot.png)
+
 ## Technologies Used
 
 - [React JS](https://reactjs.org/)
