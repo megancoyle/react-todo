@@ -2,9 +2,9 @@
 
 ## Overview
 
-A React todo application
+A React todo application that allows user to add, edit, and delete todos. You can view a demo of the application [here](https://megancoyle.github.io/react-todo/).
 
-![Screenshot](screenshot.png)
+[![Screenshot](screenshot.png)](https://megancoyle.github.io/react-todo/)
 
 ## Technologies Used
 
